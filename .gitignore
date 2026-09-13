@@ -1,0 +1,17 @@
+# Keil build output
+Objects/
+Listings/
+DebugConfig/
+
+# Keil generated files
+*.axf
+*.hex
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.dep
+
+# User-specific Keil files
+*.uvguix
